@@ -1,0 +1,35 @@
+Moteur de jeu 2D avec grille
+    -lancement du jeu
+    -possibiliter de tester son jeu dans le Moteur
+    -compilation du jeu en .exe
+    -system de tableau (a la dofus) dans un premier temp
+
+interface graphique
+    -configuration de l'interface
+    -import/export des projet
+    -nouveau/sauvegarde de projet
+
+integration de texture
+    -texture de base integrer
+    -possibiliter d'utiliser des texture custome
+
+integration de physique
+    -graviter
+    -colision entre jouer/entity et block
+
+sauvegarde des fichier sous format special
+    -sauvegarde dans un dossier
+    -mapping des touches
+    -fichier des objet
+    -fichier des tableau
+
+pseudo ia integrer
+    -"ia" (deplacement un peu random et target du joueur(ou non))
+
+interaction avec objet
+    -interaction avec des objet au sol
+    -interaction avec echelle et coffre
+    -interaction pnj
+    -interaction structure
+
+possibiliter de jouer clavier(voir manette)
